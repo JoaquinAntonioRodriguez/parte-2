@@ -1,0 +1,47 @@
+[ {
+    "id": "1",
+    "nombre": "Cartas Yu-Gi-Oh",
+    "precio": "$550",
+    "disponible": true
+  }, {
+    "id": "2",
+    "nombre": "Pines variados de anime y videojuegos",
+    "precio": "$150",
+    "disponible": true
+  },
+  {
+    "id": "3",
+    "nombre": "Manga Boku no Hero ",
+    "precio": "$750",
+    "disponible": true
+  },
+  {
+    "id": "4",
+    "nombre": "Manga Death Note",
+    "precio": "$750",
+    "disponible": true
+  },
+  {
+    "id": "5",
+    "nombre": "Manga Naruto Shipudden",
+    "precio": "$700",
+    "disponible": true
+  },
+  {
+    "id": "6",
+    "nombre": "Manga One piece",
+    "precio": "$750",
+    "disponible": true
+  },
+  {
+    "id": "7",
+    "nombre": "Buzo Nezuko negro, talle M a XXL",
+    "precio": "$5000",
+    "disponible": true
+  },
+  {
+    "id": "8",
+    "nombre": "Gorro de pikachu",
+    "precio": "$2500",
+    "disponible": true
+  }]

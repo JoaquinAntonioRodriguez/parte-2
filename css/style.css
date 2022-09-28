@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(199, 51, 51);
+}
+.navbar{
+    background-color: rgb(150, 17, 17);
+} 
+h5{
+    font-family: ONE-PIECE;
+}
+p{
+    font-family: ONE-PIECE;
+}
+h1{
+    font-family: ONE-PIECE;
+    text-align: center;
+    text-decoration: underline;
+}
+.card{
+    background-color: bisque;
+}
+.card-body{
+    background-color: bisque;
+    margin: 0;
+}
+#boton-f{
+    background-color:lightskyblue;
+}
+#boton-i{
+    background-color: red;
+}
+#boton-l{
+    background-color: aqua;
+}
+footer{
+    background-color: black;
+}
